@@ -7,7 +7,7 @@ complexe. La solution consiste à trouver un meilleur chemin
 (Noeud) jusqu'à revenir au point de départ. Dans cette simulation, 
 on va vous guider vers le meilleur chemin, allez-y.
 
-Dans cette solutions, deux apprcohes ont été implémentées : en utilisant un algorithme de parcours complet, en utilisant une heuristique.
+Dans cette solution, deux apprcohes ont été implémentées : en utilisant un algorithme de parcours complet, en utilisant une heuristique.
 Les temps d'exécution correspondants sont ensuite affichés.
 
 <img width="959" alt="image" src="https://github.com/Lamine-br/voyageur_du_commerce/assets/81880693/f910477d-6ad6-4c25-b64f-242942017613">
